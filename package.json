@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-reactjs-chat-app",
+  "version": "1.0.0",
+  "description": "i/o chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngminhtan/nodejs-reactjs-chat-app.git"
+  },
+  "keywords": [
+    "chat",
+    "app"
+  ],
+  "author": "tannm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngminhtan/nodejs-reactjs-chat-app/issues"
+  },
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*"
+  },
+  "homepage": "https://github.com/ngminhtan/nodejs-reactjs-chat-app#readme"
+}
